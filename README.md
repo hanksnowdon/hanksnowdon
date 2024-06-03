@@ -2,7 +2,7 @@
 
 📊 I'm a data scientist based in Chicago, currently studying in an applied data science master's program at UChicago.
 
-🚲 I spend a lot of time thinking about car dependency in the U.S. and how investments in active and public transport can improve our cities. I'm also a sports fanatic, and love applying my quantitative background to better understand sports at all levels.
+🚇 I spend a lot of time thinking about car dependency in the U.S. and how investments in active and public transport can improve our cities. I'm also a sports fanatic, and love applying my quantitative background to better understand sports at all levels.
 
 🔗 Full code for many of the projects I've worked on can be found here on my GitHub profile, and additional project writeups can be found on my personal portfolio site [here](https://hanksnowdon.github.io/Portfolio/). 
 
