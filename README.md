@@ -1,5 +1,3 @@
-## Hi there 👋
-
 📊 I'm a data scientist based in Chicago, currently studying in an applied data science master's program at UChicago.
 
 🚇 I spend a lot of time thinking about car dependency in the U.S. and how investments in active and public transport can improve our cities. I'm also a sports fanatic, and love applying my quantitative background to better understand sports at all levels.
