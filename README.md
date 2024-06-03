@@ -6,7 +6,7 @@ I spend a lot of time thinking about car dependency in the U.S. and how investme
 
 Full code for many of the projects I've worked on can be found here on my GitHub profile, and additional project writeups can be found on my personal portfolio site [here](https://hanksnowdon.github.io/Portfolio/). 
 
-Feel free to reach out via [Linkedin](https://www.linkedin.com/in/hank-snowdon-849588159/) or email at hanksnowdon@gmail.com.
+Feel free to reach out via [Linkedin](https://www.linkedin.com/in/hank-snowdon-849588159/) or email at hanksnowdon@gmail.com!
 
  
 <!--
